@@ -9,7 +9,7 @@ main() {
   print(phoneMask('62920565'));
   print(phoneMask('629205658'));
   print(phoneMask('6292056586'));
-  //mascara com o 0 acrescentado
+  //mask with the ninth digit added
   print(phoneMask('62992056586'));
 }
 
